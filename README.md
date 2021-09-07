@@ -2,7 +2,7 @@
 **[Recapitulate]**<br>
 Web Camera 좌우 반전이 필요할 시<br>
 
-**[Requiremnets]**
+**[Requiremnets]**<br>
  pip install opencv-python<br>
  
  **[Detail]**<br>
